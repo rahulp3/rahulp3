@@ -1,4 +1,4 @@
-<h1 align = "center"> Hi, I'm Rahul</h1> </br>
+<h1 align = "center"> Hi, I'm Rahul</h1> 
 ![](https://komarev.com/ghpvc/?username=rahulp3&color=blueviolet&style=plastic)
 
 
